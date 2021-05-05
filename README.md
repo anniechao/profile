@@ -7,7 +7,7 @@
 Annie's Profile : [https://anniechao.github.io/profile/profile.html](https://anniechao.github.io/profile/profile.html)
 
 ## 作業說明
-參考 pinterest 上的網站履歷範本圖，並自行設計本次作業。主要使用 `html`、`scss`、`bootstrap`，並且使用了 `aos` (`jquery`的套件) 進行coding。主要是自己刻模板，搭配部分套件完成整個網頁。 履歷特色為製作了響應式網站、搭配捲動動畫效果、打造不同區塊讓讀者在瀏覽時有不同的感受。以下為使用到的一些技巧以及參考來源
+參考 pinterest 上的網站履歷範本圖，並自行設計本次作業。主要使用 `html`、`scss`、`bootstrap`，並且使用了 `aos` (`jquery`的套件) 進行coding。主要是自己刻模板，搭配部分套件完成整個網頁。 履歷特色為製作了響應式網站、搭配捲動動畫效果、打造不同區塊讓讀者在瀏覽時有不同的感受等等。以下為一些特色、技巧說明，有使用模駔的有附上其參考來源。
 
 
 ### Design
@@ -35,7 +35,9 @@ Annie's Profile : [https://anniechao.github.io/profile/profile.html](https://ann
    -  在 header 和 footer 的名字使用 `hover:{text-decoration:none;}` 於 a 標籤上
  
 ### AOS
-- 使用 `AOS`(`jQuery`套件) 呈現捲動時的動畫效果: [https://michalsnik.github.io/aos/](https://michalsnik.github.io/aos/), [https://github.com/michalsnik/aos/blob/next/README.md](https://github.com/michalsnik/aos/blob/next/README.md)
+- 使用 `AOS`(`jQuery`套件) 呈現捲動時的動畫效果:
+  - [https://michalsnik.github.io/aos/](https://michalsnik.github.io/aos/)
+  - [https://github.com/michalsnik/aos/blob/next/README.md](https://github.com/michalsnik/aos/blob/next/README.md)
 - 包含以下幾種樣式(實際應用有調整一些參數):
   - fade-up/ fade-right/ fade-left
   - zoom-in 
