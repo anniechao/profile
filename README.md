@@ -4,7 +4,7 @@
 - 學號: B06102029
 
 ## 履歷網址
-Annie's Profile : [https://anniechao.github.io/profile/profile](https://anniechao.github.io/profile/profile.html)
+Annie's Profile : [https://anniechao.github.io/profile/profile](https://anniechao.github.io/profile/profile)
 
 ## 作業說明
 參考 pinterest 上的網站履歷範本圖，並自行設計本次作業。主要使用 `html`、`scss`、`bootstrap`，並且使用了 `aos` (`jquery`的套件) 進行coding。主要是自己刻模板，搭配部分套件完成整個網頁。 履歷特色為製作了響應式網站、搭配捲動動畫效果、打造不同區塊讓讀者在瀏覽時有不同的感受等等。以下為一些特色、技巧說明，有使用模駔的有附上其參考來源。
